@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">ReliefDrop — Image to STL and 3D Relief</title>
+  <desc id="desc">Free, open-source browser tool by kcgdz. Logos, keychains, stamps and photo reliefs.</desc>
+  <rect width="1280" height="640" fill="#f4f3fa"/>
+  <path d="M800 0v640M960 0v640M1120 0v640M640 160h640M640 320h640M640 480h640" stroke="#e5e2f1"/>
+  <rect x="76" y="76" width="64" height="64" rx="16" fill="#6658e8"/>
+  <path d="m88 113 20 11 20-11v9l-20 11-20-11Z" fill="#bcb5ff"/>
+  <path d="m88 103 20 11 20-11v9l-20 11-20-11Z" fill="#e0dcff"/>
+  <path d="m108 84-20 17 20 11 20-11Z" fill="#fff"/>
+  <text x="76" y="257" font-family="Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-4" fill="#201d35">ReliefDrop</text>
+  <text x="80" y="310" font-family="Arial,sans-serif" font-size="28" fill="#6658e8">Image to STL &amp; 3D Relief</text>
+  <text x="80" y="381" font-family="Arial,sans-serif" font-size="21" fill="#6c687e">Logos. Keychains. Stamps. Photo reliefs.</text>
+  <text x="80" y="419" font-family="Arial,sans-serif" font-size="21" fill="#6c687e">Drop an image. Shape it. Export it.</text>
+  <text x="80" y="552" font-family="Arial,sans-serif" font-size="16" fill="#6c687e">FREE · OPEN SOURCE · MIT</text>
+  <text x="1198" y="552" text-anchor="end" font-family="Arial,sans-serif" font-size="16" fill="#6c687e">Built by kcgdz</text>
+  <path d="m790 359 170 94 170-94v70l-170 94-170-94Z" fill="#aaa0f2"/>
+  <path d="m790 267 170 94 170-94v70l-170 94-170-94Z" fill="#c8c1fa"/>
+  <path d="m960 113-170 132 170 94 170-94Z" fill="#6658e8"/>
+  <path d="m960 180-80 62 80 44 80-44Z" fill="#f4f3fa"/>
+</svg>
